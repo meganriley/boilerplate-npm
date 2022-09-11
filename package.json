@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Megan Riley",
+	"description": "a beginner boilerplate for learning npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
